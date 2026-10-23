@@ -5,3 +5,4 @@ feedparser==6.0.14
 httpx==0.28.1
 fastapi==0.148.0
 uvicorn==0.54.0
+dependency-injector==4.49.1
